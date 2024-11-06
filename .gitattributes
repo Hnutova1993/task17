@@ -1,0 +1,2 @@
+*.txt filter=lfs diff=lfs merge=lfs -text
+M_000002.txt filter=lfs diff=lfs merge=lfs -text
